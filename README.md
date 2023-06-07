@@ -1,21 +1,21 @@
 # working-with-fasta-files
 The Python script in this repo `Subramaniam.py` performs the following tasks:
 
-    1. Counts the frequency of each nucleotide in each sequence
+   1. Counts the frequency of each nucleotide in each sequence
         in a provided FASTA file.
         
-    2. Counts the frequency of each nucleotide across all sequences
+   2. Counts the frequency of each nucleotide across all sequences
         in a provided FASTA file.
         
-    3. Calculates the frequency of transition and
+   3. Calculates the frequency of transition and
         transversion mutations between pairwise comparison of
         DNA seqeunces in a provided FASTA file.
         
-    4. Calculates the overall ratio of transition to transverion
+   4. Calculates the overall ratio of transition to transverion
         mutations for each pairwise comparison of sequences in a
         provided FASTA file.
         
-    5. Records all nucleotide frequencies, mutation counts, and
+   5. Records all nucleotide frequencies, mutation counts, and
         ratios in a single text file: `FrequencyData.txt`.
 
 This script was written for a sample input file, `lab4_termite.fasta`.
