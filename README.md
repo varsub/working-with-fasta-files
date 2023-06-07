@@ -18,6 +18,8 @@ The Python script in this repo `Subramaniam.py` performs the following tasks:
     5. Records all nucleotide frequencies, mutation counts, and
         ratios in a single text file: `FrequencyData.txt`.
 
+This script was written for a sample input file, `lab4_termite.fasta`.
+
 Before using this Python script, it is important to set the working directory to
 the folder containing your FASTA file. This can be done by clicking
 Run -> Edit Configurations and manually selecting a new working directory
